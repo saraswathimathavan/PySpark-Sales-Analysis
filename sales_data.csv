@@ -1,0 +1,16 @@
+transaction_id,customer_id,product,amount,region
+T001,C101,Laptop,55000,South
+T002,C102,Mobile,18000,North
+T003,C103,Tablet,22000,East
+T004,C104,Laptop,60000,South
+T005,C105,Headphones,3000,West
+T006,C106,Mobile,15000,North
+T007,C107,Tablet,25000,East
+T008,C108,Laptop,0,South
+T009,C109,Headphones,2500,West
+T010,C110,Mobile,20000,South
+T011,C111,Tablet,18000,North
+T012,C112,Laptop,65000,West
+T013,C113,Mobile,17000,East
+T014,C114,Headphones,0,North
+T015,C115,Tablet,28000,South
